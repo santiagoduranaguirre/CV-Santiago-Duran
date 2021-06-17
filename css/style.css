@@ -1,0 +1,78 @@
+body {
+    font-family: 'Baloo Tammudu 2', cursive;
+    background-color: #DBFCFF;
+}
+
+[href] {
+    color: #40798C;
+}
+
+header {
+    background-image: url('../img/E3yBVQeVIAEgJLu.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+header img {
+    height: 250px;
+    border-radius: 150px;
+}
+
+
+main {
+    padding: 100px;
+}
+
+.info {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.entireTextMargin {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+}
+
+.personalData span {
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.academicsSubtitles {
+    font-weight: bold;
+}
+
+.academicsMargin {
+    margin-left: 79px;
+    margin-right: 50px;
+    display: block;
+}
+
+
+.subtitles, h1 {
+    font-feature-settings: "cpsp" on;
+    background-color: #0B2027;
+    color: #40798C;
+    letter-spacing: 12px;
+    opacity: 0.9;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #0B2027;
+    color: #40798C;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+
+footer img {
+    margin-left: 26px;
+}
+
+
